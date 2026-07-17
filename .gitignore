@@ -1,0 +1,15 @@
+# API responses — regenerable, large, and nobody else needs them
+cfbd_cache/
+wiki_cache/
+carter_cache/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Never
+.env
+*.key
+.DS_Store
+.DS_Store
