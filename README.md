@@ -4,7 +4,6 @@ A single self-contained HTML page showing every FBS team's final season rankings
 AP, Coaches, BCS, and CFP — with no build step, no server, and no network calls.
 Pick a team and the chart, era bands, and colors follow.
 
-**Live:** https://USERNAME.github.io/REPO/
 
 ## What's in it
 
